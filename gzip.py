@@ -1,7 +1,3 @@
-# Author: Marco Simoes
-# Adapted from Java's implementation of Rui Pedro Paiva
-# Teoria da Informacao, LEI, 2022
-
 import sys
 from huffmantree import HuffmanTree
 
